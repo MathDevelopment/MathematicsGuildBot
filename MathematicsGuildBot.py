@@ -8,7 +8,7 @@ import requests
 import json
 from pprint import pprint
 
-hypixelAPIkey = 'd2b434cf-f481-450a-9efa-e666b09bad4f'
+hypixelAPIkey = 'KEY'
 
 def getInfo(call):
     r = requests.get(call)
