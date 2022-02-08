@@ -248,4 +248,4 @@ async def on_message(message):
         await message.reply(embed=embed)
     await bot.process_commands(message)
 
-bot.run('OTI1ODE0NzQ1MzMwNzQ1NDQ2.YcymLA.358wO1-am4guARByAn5jW970uVE')
+bot.run('TOKEN')
